@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    android:id="@+id/login_form"
+    android:background="@color/colorPrimary"
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/cancel"
+        android:src="@drawable/ic_cancel_black_24dp"
+        android:layout_width="30dp"
+        android:layout_height="30dp" />
+
+    <EditText
+        android:layout_below="@+id/cancel"
+        android:ellipsize="start"
+        android:inputType="textMultiLine"
+        android:scrollbars="vertical"
+        android:gravity="top|left"
+        android:textAlignment="center"
+        android:layout_margin="5dp"
+        android:background="@drawable/corner"
+        android:id="@+id/message"
+        android:layout_width="match_parent"
+        android:layout_height="200dp" />
+
+    <Button
+        android:layout_margin="10dp"
+        android:background="@drawable/cornerbutton"
+        android:layout_below="@+id/message"
+        android:text="@string/post"
+        android:textStyle="bold"
+        android:textColor="@android:color/holo_red_dark"
+        android:id="@+id/send"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+
+
+</RelativeLayout>

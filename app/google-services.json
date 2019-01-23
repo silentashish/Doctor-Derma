@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "917742149997",
+    "firebase_url": "https://skin-b7b70.firebaseio.com",
+    "project_id": "skin-b7b70",
+    "storage_bucket": "skin-b7b70.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:917742149997:android:8fb67d521115df82",
+        "android_client_info": {
+          "package_name": "np.com.gashish.www.skin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "917742149997-v1norv3p6f6k0uc4r4cmk0o3jg9gcejd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "np.com.gashish.www.skin",
+            "certificate_hash": "5e433e56f28baf288b587659e5b3c6ef2ad5a146"
+          }
+        },
+        {
+          "client_id": "917742149997-q7gtkvgjr6mder7j38ec03nkc9e3quh7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCU0Q3uughFMU2SX_175tvaDbs7U6UHQ1U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "917742149997-q7gtkvgjr6mder7j38ec03nkc9e3quh7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

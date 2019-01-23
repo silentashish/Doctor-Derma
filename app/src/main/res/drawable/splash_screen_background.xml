@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android" android:layout_height="match_parent" android:layout_width="match_parent">
+
+    <item android:drawable="@drawable/splash_background_app"/>
+
+    <!-- Set the Background Image-->
+    <!--<item android:gravity="center" android:layout_width="300dp" android:layout_height="300dp">-->
+        <!--<bitmap-->
+            <!--android:layout_width="300dp"-->
+            <!--android:layout_height="300dp"-->
+            <!--android:src="@drawable/untitled_2"/>-->
+
+    <!--</item>-->
+</layer-list>
